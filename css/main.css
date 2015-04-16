@@ -1,6 +1,6 @@
 body {
   padding-top: 50px;
-  margin-bottom: 50px; /* Margin bottom by footer height */
+  margin-bottom: 60px; /* Margin bottom by footer height */
 }
 
 html {
@@ -18,7 +18,7 @@ html {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 50px;
+  height: 60px;
 }
 
 body > .container {
@@ -31,8 +31,4 @@ body > .container {
 .footer > .container {
   padding-right: 15px;
   padding-left: 15px;
-}
-
-code {
-  font-size: 80%;
 }
