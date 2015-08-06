@@ -10,8 +10,7 @@
           div.footer {
             position: relative;
             bottom: 0;
-            left: 50;
-            right: 50;
+            left: 0;
             height: 2em;
             width: 40em;
           }
