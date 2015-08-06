@@ -42,7 +42,7 @@ div.header {
 div.header h1 {
   font-family: bitstream_vera_serifroman;
   font-weight: 100;
-  font-size: 25px;
+  font-size: 18pt;
   color: #000;
 }
 
@@ -64,7 +64,7 @@ div.nav ul {
 
 div.nav li {
   font-family: helvetica, arial, sans-serif;
-  font-size: 12px;
+  font-size: 9pt;
   font-weight: bold;
   display: inline;
   width: 40em;
@@ -100,20 +100,32 @@ div.body hr {
 
 
 div.body h1 {
-  font-size: 2em;
+  font-size: 20pt;
   font-weight: bold;
   margin-bottom: 8.5px;
 }
 
 div.body h2 {
-  font-size: 1.2em;
+  font-size: 14pt;
   font-weight: bold;
   margin-bottom: 8.5px;
 
 }
 
+div.body h3 {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 8.5px;
+}
+
+div.body h4 {
+  font-size: 11pt;
+  font-weight:bold;
+  margin-bottom: 8.5px;
+}
+
 div.body p {
-  font-size: 1em;
+  font-size: 11pt;
   line-height: 1.5em;
   margin-bottom: 1em;
 }
@@ -132,9 +144,6 @@ div.footer p {
   text-align: center;
   font-size: smaller;
   color: gray;
-}
-
-div.feed {
 }
 
 div.feed .fixed {
