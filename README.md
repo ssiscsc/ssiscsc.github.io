@@ -1,6 +1,6 @@
-# chiayolin.org [![Build Status](https://travis-ci.org/chiayolin/chiayolin.github.io.svg?branch=master)](https://travis-ci.org/chiayolin/chiayolin.github.io)
+# ssiscsc.github.io
 
-[ssiscsc.github.io][url] is the home page of [SSISCSC][name], and it is hosted on [Github Pages][gh-pages]. 
+[ssiscsc.github.io][url] is the homepage of [SSISCSC][name], and it is hosted on [Github Pages][gh-pages]. 
 [url]: https://ssiscsc.github.io/
 [name]: https://github.com/ssiscsc/
 [gh-pages]: https://pages.github.com/
