@@ -5,7 +5,7 @@
       <head>
         <title>SSISCSC - Events</title>
         <link rel="stylesheet" type="text/css" href="../lib/css/main.css" />
-        <style>hr { margin-bottom: .5em; }</style>
+        <style>div.body hr { margin-bottom: .5em; }</style>
       </head>
       <body>
         <div class="wrapper">
