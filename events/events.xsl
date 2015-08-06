@@ -4,12 +4,15 @@
     <html>
       <head>
         <title>Daily Activity Log</title>
-        <link rel="stylesheet" type="text/css" href="events.css" />
         <link rel="styleshrrt" type="text/css" href="../lib/css/main.css" />
       </head>
       <body>
-        <div class="header fixed at-top">What's happening ...</div>
-        <xsl:apply-templates/>
+        <div class="wrapper">
+          <div class="fixed at-top">
+            <div class="header">What's happening ...</div>
+          </div>
+          <xsl:apply-templates/>
+        </div>
       </body>
     </html>
   </xsl:template>
