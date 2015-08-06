@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-06-23">
-    <action type="trying">
-      My new daily activity log
+  <event date="2015-08-06">
+    <action type="testing">
+      This is a log for SSISCSC.
     </action>
     <references>
       <reference src="https://github.com/joebew42/daily-activity-log" type="source" />
