@@ -4,7 +4,7 @@
     <html>
       <head>
         <title>Daily Activity Log</title>
-        <link rel="styleshrrt" type="text/css" href="../lib/css/main.css" />
+        <link rel="styleshrrt" type="text/css" href="../lib/main.css" />
       </head>
       <body>
         <div class="wrapper">
