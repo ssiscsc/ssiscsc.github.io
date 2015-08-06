@@ -38,7 +38,7 @@
           </div>
           <div class="footer">
             <p>
-              The Site is Licensed Under the <a href="./LICENSE">MIT License.</a>
+              The Site is Licensed Under the <a href="../LICENSE">MIT License.</a>
             </p>
           </div>
         </div>
