@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font: 12pt 'Fauna One', sans;
+}
+
+.header {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: center;
+    color: white;
+    background: cadetblue;
+    box-shadow: 0 0 4px grey;
+}
+
+.fixed {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+.at-top {
+    top: 0;
+}
+
+.with-top-margin {
+    margin-top: 70px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    width: 640px;
+    margin: 0 auto;
+}
+
+.event {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.event small {
+    color: #444;
+    font-size: 10pt;
+}
+
+.event-title {
+    color: #222;
+    font-size: 11pt;
+}
+
+.action-type {
+    margin-left: 5px;
+    color: #fff;
+    font-size: 10pt;
+    padding: 2px 6px;
+    background: cadetblue;
+    border-radius: 6px;
+    float: right;
+}
