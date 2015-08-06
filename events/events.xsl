@@ -5,7 +5,17 @@
       <head>
         <title>SSISCSC - Events</title>
         <link rel="stylesheet" type="text/css" href="../lib/css/main.css" />
-        <style>div.body hr { margin-bottom: 10px; }</style>
+        <style>
+          div.body hr { margin-bottom: 10px; }
+          div.footer {
+            position: relative;
+            bottom: 0;
+            left: 50;
+            right: 50;
+            height: 2em;
+            width: 40em;
+          }
+       </style>
       </head>
       <body>
         <div class="wrapper">
@@ -27,11 +37,11 @@
               <xsl:apply-templates/>
             </div>
           </div>
-        </div>
-         <div class="footer">
-          <p>
-            The Site is Licensed Under the <a href="./LICENSE">MIT License.</a>
-          </p>
+          <div class="footer">
+            <p>
+              The Site is Licensed Under the <a href="./LICENSE">MIT License.</a>
+            </p>
+          </div>
         </div>
       </body>
     </html>
