@@ -3,13 +3,24 @@
   <xsl:template match="/">
     <html>
       <head>
-        <title>Daily Activity Log</title>
+        <title>SSISCSC - Events</title>
         <link rel="stylesheet" type="text/css" href="../lib/main.css" />
       </head>
       <body>
         <div class="wrapper">
           <div class="fixed at-top">
-            <div class="header">What's happening ...</div>
+            <div class="header">
+              <h1>ssiscsc</h1>
+            </div>
+          </div>
+          <div class="nav">
+            <ul>
+              <li><a href="./" style="color: red;">hot</a></li>
+              <li><span class="separator">|</span></li>
+              <li><a href="../events/">events</a></li>
+              <li><span class="separator">|</span></li>
+              <li><a href="../faq/">faq</a></li>
+            </ul>
           </div>
           <xsl:apply-templates/>
         </div>
