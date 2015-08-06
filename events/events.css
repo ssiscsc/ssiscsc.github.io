@@ -1,8 +1,4 @@
-body {
-    margin: 0;
-    font: 12pt 'Fauna One', sans;
-}
-
+/*
 .header {
     padding: 10px;
     font-weight: bold;
@@ -12,7 +8,7 @@ body {
     background: cadetblue;
     box-shadow: 0 0 4px grey;
 }
-
+*/
 .fixed {
     position: fixed;
     width: 100%;
