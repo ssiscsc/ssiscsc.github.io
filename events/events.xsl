@@ -9,10 +9,8 @@
       </head>
       <body>
         <div class="wrapper">
-          <div class="fixed at-top">
-            <div class="header">
-              <a href="../index.html"><h1>ssiscsc</h1></a>
-            </div>
+          <div class="header">
+            <a href="../index.html"><h1>ssiscsc</h1></a>
           </div>
           <div class="nav">
             <ul>
