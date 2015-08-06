@@ -147,8 +147,8 @@ div.feed .at-top {
     top: 0;
 }
 
-div.feed .with-top-margin {
-    margin-top: 70px;
+div.feed .without-top-margin {
+    margin-top: 0;
 }
 
 div.feed ul {

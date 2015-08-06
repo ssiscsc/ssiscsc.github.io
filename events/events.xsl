@@ -23,7 +23,7 @@
             </ul>
           </div>
           <div class="body">
-            <h1>FAQ</h1><hr/>
+            <h1>Events</h1><hr/>
             <div class="feed">
               <xsl:apply-templates/>
             </div>
@@ -34,7 +34,7 @@
   </xsl:template>
 
   <xsl:template match="events">
-    <ul class="with-top-margin">
+    <ul class="without-top-margin">
       <xsl:apply-templates select="event"/>
     </ul>
   </xsl:template>
