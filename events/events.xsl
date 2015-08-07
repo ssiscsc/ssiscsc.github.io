@@ -19,11 +19,11 @@
       <body>
         <div class="wrapper">
           <div class="header">
-            <a href="../index.html"><h1>ssiscsc</h1></a>
+            <a href="/"><h1>ssiscsc</h1></a>
           </div>
           <div class="nav">
             <ul>
-              <li><a href="./" style="color: red;">hot</a></li>
+              <li><a href="../" style="color: red;">index</a></li>
               <li><span class="separator">|</span></li>
               <li><a href="../events/">events</a></li>
               <li><span class="separator">|</span></li>
@@ -38,7 +38,9 @@
           </div>
           <div class="footer">
             <p>
-              The Site is Licensed Under the <a href="../LICENSE">MIT License.</a>
+              The Site is Licensed Under the 
+                <a href="https://raw.githubusercontent.com/ssiscsc/ssiscsc.github.io/master/LICENSE">
+                  MIT License.</a>
             </p>
           </div>
         </div>
